@@ -1,0 +1,2 @@
+Hello,
+This is a sample file created for session5 exercise: Intro to Git and Github.
